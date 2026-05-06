@@ -983,7 +983,7 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/readme/43-a.png" alt="Example 43 image A" width="100%"></td>
+    <td width="50%"><img src="./assets/readme/43-a.jpg" alt="Example 43 image A" width="100%"></td>
     <td width="50%"><img src="./assets/readme/43-b.png" alt="Example 43 image B" width="100%"></td>
   </tr>
   <tr>
