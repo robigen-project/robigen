@@ -126,7 +126,6 @@ robigen/
 |   |-- consensus_agent.py                # Multi-judge evaluation
 |   |-- semantic_scene_creation_agent.py  # Adversarial edit planner
 |   |-- scene_synthesis_agent.py          # Image-editing scene synthesis
-|   |-- constraint_enforcement_agent.py   # Constraint-checking interface
 |   `-- random_action_agent.py            # Random-action baseline
 |-- config/
 |   |-- datasets.py                       # Dataset path registry
