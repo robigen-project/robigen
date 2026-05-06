@@ -38,7 +38,7 @@ export GeminiER_KEY="your_google_ai_studio_key"
 
 ## Tasks
 
-RobiGen supports four core robotics-oriented VLM tasks:
+RobiGen supports five core robotics-oriented VLM tasks:
 
 ### Task 1: Pick Up
 
@@ -70,6 +70,14 @@ Tests fine-grained attribute recognition.
 
 ```bash
 python test_main.py --task attribute --image-dir final_dataset --images 1_hope.png --objects "Alphabet Soup can" --attribute opened
+```
+
+### Task 5: Multi-step
+
+Tests whether the model can produce a grounded action plan for a multi-step instruction.
+
+```bash
+python test_main.py --task multi_step --image-dir final_dataset --images 1_hope.png --objects "open the drawer and pick up the mug"
 ```
 
 ## Usage
