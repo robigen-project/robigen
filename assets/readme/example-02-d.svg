@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Example 02 output image B</title>
+  <desc id="desc">A placeholder image for the second output image in example 02.</desc>
+  <defs>
+    <linearGradient id="bg" x1="1" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#e0f2fe"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="600" fill="url(#bg)"/>
+  <rect x="80" y="70" width="800" height="460" rx="28" fill="#ffffff" stroke="#94a3b8" stroke-width="4"/>
+  <path d="M480 146c90 0 160 50 160 114H320c0-64 70-114 160-114z" fill="#0369a1"/>
+  <rect x="446" y="264" width="68" height="128" rx="14" fill="#0369a1"/>
+  <path d="M352 392h256l64 58H288z" fill="#0369a1"/>
+  <circle cx="480" cy="260" r="20" fill="#fef08a"/>
+  <text x="480" y="500" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#0f172a">Example 02 - Output B</text>
+</svg>

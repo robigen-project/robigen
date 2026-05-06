@@ -2,9 +2,8 @@
 
 # RoboGen
 
-**A clean public home for the RoboGen project.**
+**Visual examples for model, task, object, and modification outputs.**
 
-[![Project status](https://img.shields.io/badge/status-early_stage-2563eb?style=for-the-badge)](#roadmap)
 [![License: MIT](https://img.shields.io/badge/license-MIT-16a34a?style=for-the-badge)](LICENSE)
 [![Repository](https://img.shields.io/badge/github-robigen--project%2Frobigen-111827?style=for-the-badge&logo=github)](https://github.com/robigen-project/robigen)
 
@@ -12,49 +11,75 @@
 
 ---
 
-## Overview
+## Examples
 
-RoboGen is the starting point for a public project focused on building, documenting, and sharing the RoboGen work in a lightweight, organized repository.
+### Example 01
 
-This README is designed to give visitors a clear first impression while leaving room for the project to grow as source code, documentation, examples, and releases are added.
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/readme/example-01-a.svg" alt="Example 01 first source image" width="100%"></td>
+    <td width="50%"><img src="./assets/readme/example-01-b.svg" alt="Example 01 second source image" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Source image A</sub></td>
+    <td align="center"><sub>Source image B</sub></td>
+  </tr>
+</table>
 
-## Project Goals
+| Field | Value |
+| --- | --- |
+| **Model** | RoboGen preview model |
+| **Task** | Object editing and generation |
+| **Object** | Chair |
+| **Modification** | Add a soft seat cushion and simplify the frame |
+| **Model output** | A cleaner chair concept with the requested visual change applied |
+| **Root category** | Furniture |
+| **Note** | Placeholder example for README layout testing |
 
-- Keep the repository simple and easy to understand.
-- Document the project direction as it evolves.
-- Provide a clean entry point for future source code, examples, and usage notes.
-- Make the project easy to discover, clone, and contribute to.
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/readme/example-01-c.svg" alt="Example 01 first output image" width="100%"></td>
+    <td width="50%"><img src="./assets/readme/example-01-d.svg" alt="Example 01 second output image" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Output image A</sub></td>
+    <td align="center"><sub>Output image B</sub></td>
+  </tr>
+</table>
 
-## Repository Structure
+### Example 02
 
-```text
-.
-|-- LICENSE
-`-- README.md
-```
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/readme/example-02-a.svg" alt="Example 02 first source image" width="100%"></td>
+    <td width="50%"><img src="./assets/readme/example-02-b.svg" alt="Example 02 second source image" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Source image A</sub></td>
+    <td align="center"><sub>Source image B</sub></td>
+  </tr>
+</table>
 
-## Roadmap
+| Field | Value |
+| --- | --- |
+| **Model** | RoboGen preview model |
+| **Task** | Object transformation |
+| **Object** | Table lamp |
+| **Modification** | Make the base wider and change the shade shape |
+| **Model output** | A revised lamp design with a stronger base and adjusted silhouette |
+| **Root category** | Home object |
+| **Note** | Placeholder example for README layout testing |
 
-- [x] Create the public repository.
-- [x] Add a polished project README.
-- [ ] Add project source files.
-- [ ] Document setup and usage instructions.
-- [ ] Add examples, tests, or demos when the implementation lands.
-
-## Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/robigen-project/robigen.git
-cd robigen
-```
-
-The project is currently in its initial setup phase. Installation and usage instructions will be added once the implementation is available.
-
-## Contributing
-
-Contributions are welcome once the project scope is published. For now, feel free to open an issue or discussion with ideas, questions, or feedback.
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/readme/example-02-c.svg" alt="Example 02 first output image" width="100%"></td>
+    <td width="50%"><img src="./assets/readme/example-02-d.svg" alt="Example 02 second output image" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Output image A</sub></td>
+    <td align="center"><sub>Output image B</sub></td>
+  </tr>
+</table>
 
 ## License
 

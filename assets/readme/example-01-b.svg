@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Example 01 source image B</title>
+  <desc id="desc">A placeholder image for the second source image in example 01.</desc>
+  <defs>
+    <linearGradient id="bg" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#dcfce7"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="600" fill="url(#bg)"/>
+  <rect x="80" y="70" width="800" height="460" rx="28" fill="#ffffff" stroke="#94a3b8" stroke-width="4"/>
+  <circle cx="480" cy="245" r="82" fill="#16a34a" opacity="0.14"/>
+  <path d="M366 398h228v44H366zM402 264h156l36 134H366zM418 190h124v78H418z" fill="#16a34a"/>
+  <text x="480" y="500" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#0f172a">Example 01 - Source B</text>
+</svg>
