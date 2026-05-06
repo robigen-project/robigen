@@ -21,8 +21,8 @@
     <td width="50%"><img src="./assets/readme/1-b.png" alt="Example 01 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -43,8 +43,8 @@
     <td width="50%"><img src="./assets/readme/2-b.png" alt="Example 02 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -65,8 +65,8 @@
     <td width="50%"><img src="./assets/readme/3-b.png" alt="Example 03 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -87,8 +87,8 @@
     <td width="50%"><img src="./assets/readme/4-b.png" alt="Example 04 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -109,8 +109,8 @@
     <td width="50%"><img src="./assets/readme/12-b.png" alt="Example 05 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -131,8 +131,8 @@
     <td width="50%"><img src="./assets/readme/17-b.png" alt="Example 06 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -153,8 +153,8 @@
     <td width="50%"><img src="./assets/readme/21-b.png" alt="Example 07 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -175,8 +175,8 @@
     <td width="50%"><img src="./assets/readme/24-b.png" alt="Example 08 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -197,8 +197,8 @@
     <td width="50%"><img src="./assets/readme/26-b.png" alt="Example 09 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -219,8 +219,8 @@
     <td width="50%"><img src="./assets/readme/28-b.png" alt="Example 10 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -241,8 +241,8 @@
     <td width="50%"><img src="./assets/readme/29-b.png" alt="Example 11 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -263,8 +263,8 @@
     <td width="50%"><img src="./assets/readme/30-b.png" alt="Example 12 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -285,8 +285,8 @@
     <td width="50%"><img src="./assets/readme/31-b.png" alt="Example 13 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -307,8 +307,8 @@
     <td width="50%"><img src="./assets/readme/32-b.png" alt="Example 14 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -329,8 +329,8 @@
     <td width="50%"><img src="./assets/readme/33-b.png" alt="Example 15 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -351,8 +351,8 @@
     <td width="50%"><img src="./assets/readme/34-b.png" alt="Example 16 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -373,8 +373,8 @@
     <td width="50%"><img src="./assets/readme/35-b.png" alt="Example 17 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -395,8 +395,8 @@
     <td width="50%"><img src="./assets/readme/36-b.png" alt="Example 18 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -417,8 +417,8 @@
     <td width="50%"><img src="./assets/readme/37-b.png" alt="Example 19 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -439,8 +439,8 @@
     <td width="50%"><img src="./assets/readme/38-b.png" alt="Example 20 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -461,8 +461,8 @@
     <td width="50%"><img src="./assets/readme/39-b.png" alt="Example 21 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -483,8 +483,8 @@
     <td width="50%"><img src="./assets/readme/40-b.png" alt="Example 22 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -505,8 +505,8 @@
     <td width="50%"><img src="./assets/readme/41-b.png" alt="Example 23 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -527,8 +527,8 @@
     <td width="50%"><img src="./assets/readme/42-b.png" alt="Example 24 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -549,8 +549,8 @@
     <td width="50%"><img src="./assets/readme/43-b.png" alt="Example 25 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -571,8 +571,8 @@
     <td width="50%"><img src="./assets/readme/44-b.png" alt="Example 26 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -593,8 +593,8 @@
     <td width="50%"><img src="./assets/readme/45-b.png" alt="Example 27 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -615,8 +615,8 @@
     <td width="50%"><img src="./assets/readme/46-b.png" alt="Example 28 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -637,8 +637,8 @@
     <td width="50%"><img src="./assets/readme/47-b.png" alt="Example 29 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -659,8 +659,8 @@
     <td width="50%"><img src="./assets/readme/48-b.png" alt="Example 30 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -681,8 +681,8 @@
     <td width="50%"><img src="./assets/readme/49-b.png" alt="Example 31 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -703,8 +703,8 @@
     <td width="50%"><img src="./assets/readme/50-b.png" alt="Example 32 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -725,8 +725,8 @@
     <td width="50%"><img src="./assets/readme/51-b.png" alt="Example 33 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -747,8 +747,8 @@
     <td width="50%"><img src="./assets/readme/52-b.png" alt="Example 34 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -769,8 +769,8 @@
     <td width="50%"><img src="./assets/readme/53-b.png" alt="Example 35 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -791,8 +791,8 @@
     <td width="50%"><img src="./assets/readme/54-b.png" alt="Example 36 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -813,8 +813,8 @@
     <td width="50%"><img src="./assets/readme/55-b.png" alt="Example 37 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -835,8 +835,8 @@
     <td width="50%"><img src="./assets/readme/56-b.png" alt="Example 38 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -857,8 +857,8 @@
     <td width="50%"><img src="./assets/readme/57-b.png" alt="Example 39 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -879,8 +879,8 @@
     <td width="50%"><img src="./assets/readme/58-b.png" alt="Example 40 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -901,8 +901,8 @@
     <td width="50%"><img src="./assets/readme/59-b.png" alt="Example 41 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -923,8 +923,8 @@
     <td width="50%"><img src="./assets/readme/60-b.png" alt="Example 42 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -945,8 +945,8 @@
     <td width="50%"><img src="./assets/readme/61-b.png" alt="Example 43 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -967,8 +967,8 @@
     <td width="50%"><img src="./assets/readme/62-b.png" alt="Example 44 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -989,8 +989,8 @@
     <td width="50%"><img src="./assets/readme/63-b.png" alt="Example 45 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1011,8 +1011,8 @@
     <td width="50%"><img src="./assets/readme/64-b.png" alt="Example 46 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1033,8 +1033,8 @@
     <td width="50%"><img src="./assets/readme/65-b.png" alt="Example 47 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1055,8 +1055,8 @@
     <td width="50%"><img src="./assets/readme/66-b.png" alt="Example 48 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1077,8 +1077,8 @@
     <td width="50%"><img src="./assets/readme/67-b.png" alt="Example 49 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1099,8 +1099,8 @@
     <td width="50%"><img src="./assets/readme/68-b.png" alt="Example 50 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1121,8 +1121,8 @@
     <td width="50%"><img src="./assets/readme/69-b.png" alt="Example 51 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1143,8 +1143,8 @@
     <td width="50%"><img src="./assets/readme/70-b.png" alt="Example 52 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1165,8 +1165,8 @@
     <td width="50%"><img src="./assets/readme/71-b.png" alt="Example 53 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1187,8 +1187,8 @@
     <td width="50%"><img src="./assets/readme/72-b.png" alt="Example 54 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1209,8 +1209,8 @@
     <td width="50%"><img src="./assets/readme/73-b.png" alt="Example 55 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1231,8 +1231,8 @@
     <td width="50%"><img src="./assets/readme/74-b.png" alt="Example 56 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1253,8 +1253,8 @@
     <td width="50%"><img src="./assets/readme/75-b.png" alt="Example 57 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1275,8 +1275,8 @@
     <td width="50%"><img src="./assets/readme/76-b.png" alt="Example 58 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1297,8 +1297,8 @@
     <td width="50%"><img src="./assets/readme/77-b.png" alt="Example 59 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1319,8 +1319,8 @@
     <td width="50%"><img src="./assets/readme/78-b.png" alt="Example 60 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1341,8 +1341,8 @@
     <td width="50%"><img src="./assets/readme/79-b.png" alt="Example 61 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1363,8 +1363,8 @@
     <td width="50%"><img src="./assets/readme/80-b.png" alt="Example 62 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1385,8 +1385,8 @@
     <td width="50%"><img src="./assets/readme/81-b.png" alt="Example 63 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1407,8 +1407,8 @@
     <td width="50%"><img src="./assets/readme/82-b.png" alt="Example 64 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1429,8 +1429,8 @@
     <td width="50%"><img src="./assets/readme/83-b.png" alt="Example 65 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1451,8 +1451,8 @@
     <td width="50%"><img src="./assets/readme/84-b.png" alt="Example 66 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1473,8 +1473,8 @@
     <td width="50%"><img src="./assets/readme/85-b.png" alt="Example 67 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1495,8 +1495,8 @@
     <td width="50%"><img src="./assets/readme/86-b.png" alt="Example 68 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1517,8 +1517,8 @@
     <td width="50%"><img src="./assets/readme/87-b.png" alt="Example 69 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1539,8 +1539,8 @@
     <td width="50%"><img src="./assets/readme/88-b.png" alt="Example 70 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1561,8 +1561,8 @@
     <td width="50%"><img src="./assets/readme/89-b.png" alt="Example 71 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1583,8 +1583,8 @@
     <td width="50%"><img src="./assets/readme/90-b.png" alt="Example 72 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1605,8 +1605,8 @@
     <td width="50%"><img src="./assets/readme/91-b.png" alt="Example 73 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
@@ -1627,8 +1627,8 @@
     <td width="50%"><img src="./assets/readme/92-b.png" alt="Example 74 image B" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
+    <td align="center"><sub>Original</sub></td>
+    <td align="center"><sub>Modified</sub></td>
   </tr>
 </table>
 
