@@ -1,6 +1,6 @@
 <div align="center">
 
-# RoboGen
+# RobiGen
 
 **Visual examples for model, task, object, and modification outputs.**
 
