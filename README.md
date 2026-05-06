@@ -28,13 +28,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini |
+| **Task** | Pickup |
+| **Object** | White mug |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Transparency Confusion |
 
 ### Example 02
 
@@ -51,13 +50,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini |
+| **Task** | Pickup |
+| **Object** | Knife |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Prototype Bias |
 
 ### Example 03
 
@@ -74,13 +72,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | Pickup |
+| **Object** | White mug |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Transparency Confusion |
 
 ### Example 04
 
@@ -97,174 +94,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 05
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/5-a.png" alt="Example 05 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/5-b.png" alt="Example 05 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 06
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/6-a.png" alt="Example 06 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/6-b.png" alt="Example 06 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 07
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/7-a.png" alt="Example 07 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/7-b.png" alt="Example 07 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 08
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/8-a.png" alt="Example 08 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/8-b.png" alt="Example 08 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 09
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/9-a.png" alt="Example 09 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/9-b.png" alt="Example 09 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 10
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/10-a.png" alt="Example 10 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/10-b.png" alt="Example 10 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 11
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/11-a.png" alt="Example 11 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/11-b.png" alt="Example 11 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | Detection |
+| **Object** | Can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Reflective Surface Bias |
 
 ### Example 12
 
@@ -281,105 +116,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 13
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/13-a.png" alt="Example 13 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/13-b.png" alt="Example 13 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 14
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/14-a.png" alt="Example 14 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/14-b.png" alt="Example 14 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 15
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/15-a.png" alt="Example 15 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/15-b.png" alt="Example 15 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 16
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/16-a.png" alt="Example 16 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/16-b.png" alt="Example 16 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** |  |
+| **Task** |  |
+| **Object** |  |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** |  |
 
 ### Example 17
 
@@ -396,82 +138,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 18
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/18-a.png" alt="Example 18 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/18-b.png" alt="Example 18 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 19
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/19-a.png" alt="Example 19 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/19-b.png" alt="Example 19 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 20
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/20-a.png" alt="Example 20 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/20-b.png" alt="Example 20 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gemini |
+| **Task** | pickup |
+| **Object** | Blue plastic bottle |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Occluded Feature Ambiguity |
 
 ### Example 21
 
@@ -488,59 +160,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 22
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/22-a.png" alt="Example 22 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/22-b.png" alt="Example 22 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 23
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/23-a.png" alt="Example 23 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/23-b.png" alt="Example 23 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini |
+| **Task** | Pickup |
+| **Object** | Knife |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Prototype Bias |
 
 ### Example 24
 
@@ -557,36 +182,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 25
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/25-a.png" alt="Example 25 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/25-b.png" alt="Example 25 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | Pickup |
+| **Object** | Cherries can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Spatial Reasoning Failure |
 
 ### Example 26
 
@@ -603,36 +204,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
-
-### Example 27
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/readme/27-a.png" alt="Example 27 image A" width="100%"></td>
-    <td width="50%"><img src="./assets/readme/27-b.png" alt="Example 27 image B" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Image A</sub></td>
-    <td align="center"><sub>Image B</sub></td>
-  </tr>
-</table>
-
-| Field | Value |
-| --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | Pickup |
+| **Object** | Cherries can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Spatial Reasoning Failure |
 
 ### Example 28
 
@@ -649,13 +226,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | Detection |
+| **Object** | Can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Background-Color Camouflage |
 
 ### Example 29
 
@@ -672,13 +248,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | Detection |
+| **Object** | Can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Background-Color Camouflage |
 
 ### Example 30
 
@@ -695,13 +270,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini |
+| **Task** | Attribute |
+| **Object** | Can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Misleading Object Relationship |
 
 ### Example 31
 
@@ -718,13 +292,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | Attribute |
+| **Object** | can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Misleading Object Relationship |
 
 ### Example 32
 
@@ -741,13 +314,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini ER |
+| **Task** | detection |
+| **Object** | can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Reflective Surface Bias |
 
 ### Example 33
 
@@ -764,13 +336,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini ER |
+| **Task** | detection |
+| **Object** | can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Reflective Surface Bias |
 
 ### Example 34
 
@@ -787,13 +358,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini ER |
+| **Task** | attribute |
+| **Object** | can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Misleading Object Relationship |
 
 ### Example 35
 
@@ -810,13 +380,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini ER |
+| **Task** | detection |
+| **Object** | can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Spatial Reasoning Failure<br>Partial-Object Illusion |
 
 ### Example 36
 
@@ -833,13 +402,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini |
+| **Task** | pickup |
+| **Object** | peaches can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Reflective Surface Bias |
 
 ### Example 37
 
@@ -856,13 +424,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini |
+| **Task** | pickup |
+| **Object** | peaches can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Background-Color Camouflage |
 
 ### Example 38
 
@@ -879,13 +446,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini |
+| **Task** | pickup |
+| **Object** | coca cola bottle |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Partial-Object Illusion |
 
 ### Example 39
 
@@ -902,13 +468,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | pickup |
+| **Object** | cherries can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Text-Reliance Bias |
 
 ### Example 40
 
@@ -925,13 +490,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | pickup |
+| **Object** | peaches can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Text-Reliance Bias |
 
 ### Example 41
 
@@ -948,13 +512,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | pickup |
+| **Object** | white mug |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Reflective Surface Bias |
 
 ### Example 42
 
@@ -971,13 +534,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | pickup |
+| **Object** | Cheezit box |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Transparency Confusion |
 
 ### Example 43
 
@@ -994,13 +556,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | pickup |
+| **Object** | orange juice carton |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Affordance Misinterpretation |
 
 ### Example 44
 
@@ -1017,13 +578,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | pickup |
+| **Object** | orange mac &amp; cheese |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Spatial Reasoning Failure |
 
 ### Example 45
 
@@ -1040,13 +600,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | pickup |
+| **Object** | large plastic bottle with orange label |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Spatial Reasoning Failure |
 
 ### Example 46
 
@@ -1063,13 +622,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | pickup |
+| **Object** | Clear plastic water bottle |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Transparency Confusion |
 
 ### Example 47
 
@@ -1086,13 +644,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | pickup |
+| **Object** | large plastic bottle with orange label |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Affordance Misinterpretation |
 
 ### Example 48
 
@@ -1109,13 +666,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gemini |
+| **Task** | pickup |
+| **Object** | mug |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Misleading Object Relationship |
 
 ### Example 49
 
@@ -1132,13 +688,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt |
+| **Task** | pickup |
+| **Object** | mug |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Affordance Misinterpretation |
 
 ### Example 50
 
@@ -1155,13 +710,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt |
+| **Task** | pickup |
+| **Object** | mug |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Reflective Surface Bias |
 
 ### Example 51
 
@@ -1178,13 +732,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt |
+| **Task** | pickup |
+| **Object** | mug |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Affordance Misinterpretation |
 
 ### Example 52
 
@@ -1201,13 +754,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt |
+| **Task** | pickup |
+| **Object** | Aliminium soda can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Affordance Misinterpretation |
 
 ### Example 53
 
@@ -1224,13 +776,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt |
+| **Task** | pickup |
+| **Object** | Aliminium soda can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Affordance Misinterpretation |
 
 ### Example 54
 
@@ -1247,13 +798,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt |
+| **Task** | pickup |
+| **Object** | Aliminium soda can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Text-Reliance Bias |
 
 ### Example 55
 
@@ -1270,13 +820,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini ER |
+| **Task** | pickup |
+| **Object** | the white cutting board |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Affordance Misinterpretation |
 
 ### Example 56
 
@@ -1293,13 +842,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | pickup |
+| **Object** | Cheezit box |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Transparency Confusion |
 
 ### Example 57
 
@@ -1316,13 +864,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini ER |
+| **Task** | pickup |
+| **Object** | Tomato ketchup |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Partial-Object Illusion |
 
 ### Example 58
 
@@ -1339,13 +886,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini ER |
+| **Task** | pickup |
+| **Object** | plastic bottle |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Prototype Bias |
 
 ### Example 59
 
@@ -1362,13 +908,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini ER |
+| **Task** | detection |
+| **Object** | Bird (decal) |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Reflective Surface Bias |
 
 ### Example 60
 
@@ -1385,13 +930,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | pickup |
+| **Object** | black computer mouse |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Occluded Feature Ambiguity |
 
 ### Example 61
 
@@ -1408,13 +952,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | pickup |
+| **Object** | black computer mouse |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Reflective Surface Bias |
 
 ### Example 62
 
@@ -1431,13 +974,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini ER |
+| **Task** | Detection |
+| **Object** | unreal pack small |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Occluded Feature Ambiguity |
 
 ### Example 63
 
@@ -1454,13 +996,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini ER |
+| **Task** | Detection |
+| **Object** | bowl |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Prototype Bias |
 
 ### Example 64
 
@@ -1477,13 +1018,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini ER |
+| **Task** | Detection |
+| **Object** | Raisin box |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Occluded Feature Ambiguity |
 
 ### Example 65
 
@@ -1500,13 +1040,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt |
+| **Task** | Detection |
+| **Object** | Plastic bottle |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Prototype Bias |
 
 ### Example 66
 
@@ -1523,13 +1062,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt |
+| **Task** | Detection |
+| **Object** | unreal pack small |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Text-Reliance Bias |
 
 ### Example 67
 
@@ -1546,13 +1084,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt |
+| **Task** | Detection |
+| **Object** | Plastic bottle |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Transparency Confusion |
 
 ### Example 68
 
@@ -1569,13 +1106,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gemini |
+| **Task** | Attribute |
+| **Object** | microwave door |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Reflective Surface Bias |
 
 ### Example 69
 
@@ -1592,13 +1128,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt |
+| **Task** | Ambiguity |
+| **Object** | red dish |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Occluded Feature Ambiguity |
 
 ### Example 70
 
@@ -1615,13 +1150,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gemini |
+| **Task** | attribute |
+| **Object** | oven door |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Reflective Surface Bias |
 
 ### Example 71
 
@@ -1638,13 +1172,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt |
+| **Task** | ambiguity |
+| **Object** | drink |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Prototype Bias |
 
 ### Example 72
 
@@ -1661,13 +1194,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gemini |
+| **Task** | attribute |
+| **Object** | soda can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Occluded Feature Ambiguity |
 
 ### Example 73
 
@@ -1684,13 +1216,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt |
+| **Task** | attribute |
+| **Object** | laptop |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Misleading Object Relationship |
 
 ### Example 74
 
@@ -1707,13 +1238,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gemini |
+| **Task** | attribute |
+| **Object** | Alphabet soup can |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Reflective Surface Bias |
 
 ### Example 75
 
@@ -1730,13 +1260,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gemini |
+| **Task** | attribute |
+| **Object** | can of green beans |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Reflective Surface Bias |
 
 ### Example 76
 
@@ -1753,13 +1282,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini ER |
+| **Task** | multi-step |
+| **Object** | pick up the blue mug |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Affordance Misinterpretation |
 
 ### Example 77
 
@@ -1776,13 +1304,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gpt |
+| **Task** | pickup |
+| **Object** | green plate |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Spatial Reasoning Failure |
 
 ### Example 78
 
@@ -1799,13 +1326,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gemini |
+| **Task** | pickup |
+| **Object** | large red cheezit box |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Transparency Confusion |
 
 ### Example 79
 
@@ -1822,13 +1348,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gemini |
+| **Task** | pickup |
+| **Object** | large red cheezit box |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Affordance Misinterpretation |
 
 ### Example 80
 
@@ -1845,13 +1370,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | Gemini ER |
+| **Task** | multi-step |
+| **Object** | open the top drawer |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Transparency Confusion |
 
 ### Example 81
 
@@ -1868,13 +1392,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt<br>gemini |
+| **Task** | multi-step |
+| **Object** | open the top drawer |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Misleading Object Relationship |
 
 ### Example 82
 
@@ -1891,13 +1414,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gemini ER |
+| **Task** | multi-step |
+| **Object** | pick up the teal mug |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Affordance Misinterpretation |
 
 ### Example 83
 
@@ -1914,13 +1436,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gemini |
+| **Task** | multi-step |
+| **Object** | clear the black devices from the table |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Transparency Confusion |
 
 ### Example 84
 
@@ -1937,13 +1458,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gemini |
+| **Task** | multi-step |
+| **Object** | pick up the box of cheezit crackers |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Affordance Misinterpretation |
 
 ### Example 85
 
@@ -1960,13 +1480,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gemini ER |
+| **Task** | multi-step |
+| **Object** | pick up the box of cheezit crackers |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Transparency Confusion |
 
 ### Example 86
 
@@ -1983,13 +1502,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gemini ER |
+| **Task** | multi-step |
+| **Object** | pick up the black mouse |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Transparency Confusion |
 
 ### Example 87
 
@@ -2006,13 +1524,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt |
+| **Task** | multi-step |
+| **Object** | pick up the mug |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Transparency Confusion |
 
 ### Example 88
 
@@ -2029,13 +1546,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gemini ER |
+| **Task** | multi-step |
+| **Object** | pick up the coca cola bottle |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Transparency Confusion |
 
 ### Example 89
 
@@ -2052,13 +1568,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt |
+| **Task** | multi-step |
+| **Object** | open the laptop |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Misleading Object Relationship |
 
 ### Example 90
 
@@ -2075,13 +1590,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt |
+| **Task** | multi-step |
+| **Object** | clear the black devices from the table |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Prototype Bias |
 
 ### Example 91
 
@@ -2098,13 +1612,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt |
+| **Task** | multi-step |
+| **Object** | pick up the coca cola bottle |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Affordance Misinterpretation |
 
 ### Example 92
 
@@ -2121,13 +1634,12 @@
 
 | Field | Value |
 | --- | --- |
-| **Model** | <!-- add model --> |
-| **Task** | <!-- add task --> |
-| **Object** | <!-- add object --> |
-| **Modification** | <!-- add modification --> |
-| **Model output** | <!-- add model output --> |
-| **Root category** | <!-- add root category --> |
-| **Note** | <!-- add note --> |
+| **Model** | gpt |
+| **Task** | multi-step |
+| **Object** | pick up the cream cheese box |
+| **Modification** |  |
+| **Model output** |  |
+| **Root category** | Transparency Confusion |
 
 ## License
 
