@@ -11,6 +11,135 @@
 
 ---
 
+## Installation
+
+Clone the repository and install the Python dependencies:
+
+```bash
+git clone https://github.com/robigen-project/robigen.git
+cd robigen
+pip install -r requirements.txt
+```
+
+Configure model access before running experiments:
+
+```bash
+# Required for Gemini target models, Gemini evaluators, and scene synthesis on Vertex AI
+export GOOGLE_CLOUD_PROJECT="your-gcp-project-id"
+export GOOGLE_CLOUD_LOCATION="global"
+gcloud auth application-default login
+
+# Required when using GPT-4o as the target model or GPT judges in consensus mode
+export OPENAI_API_KEY="your_openai_api_key"
+
+# Required only for Gemini Robotics-ER target models
+export GeminiER_KEY="your_google_ai_studio_key"
+```
+
+## Tasks
+
+RobiGen supports four core robotics-oriented VLM tasks:
+
+### Task 1: Pick Up
+
+Tests whether the model can identify the target object and propose a safe pick-up point.
+
+```bash
+python test_main.py --task pick_up --image-dir final_dataset --images 1_hope.png --objects "Alphabet Soup can"
+```
+
+### Task 2: Detection
+
+Tests perception and counting ability.
+
+```bash
+python test_main.py --task detection --image-dir final_dataset --images 1_hope.png --objects "can"
+```
+
+### Task 3: Ambiguity
+
+Tests whether the model recognizes when a command is ambiguous and asks for clarification.
+
+```bash
+python test_main.py --task ambiguity --image-dir final_dataset --images 1_hope.png --objects "mug"
+```
+
+### Task 4: Attribute
+
+Tests fine-grained attribute recognition.
+
+```bash
+python test_main.py --task attribute --image-dir final_dataset --images 1_hope.png --objects "Alphabet Soup can" --attribute opened
+```
+
+## Usage
+
+Run one quick pick-up experiment with Gemini 2.5 Flash and a single Gemini evaluator:
+
+```bash
+python test_main.py \
+  --task pick_up \
+  --model gemini \
+  --image-dir final_dataset \
+  --images 1_hope.png \
+  --objects "Alphabet Soup can" \
+  --iterations 1 \
+  --single-evaluator
+```
+
+Run the same task against GPT-4o:
+
+```bash
+python test_main.py \
+  --task pick_up \
+  --model gpt \
+  --image-dir final_dataset \
+  --images 1_hope.png \
+  --objects "Alphabet Soup can" \
+  --iterations 1
+```
+
+Useful management commands:
+
+```bash
+python test_main.py --list
+python test_main.py --remove all
+```
+
+Results are written under `results/<task>_<model>/`.
+
+## Project Structure
+
+```text
+robigen/
+|-- agents/
+|   |-- embodied_agent.py                 # Target VLM clients under test
+|   |-- evaluation_agent.py               # Single Gemini evaluator
+|   |-- consensus_agent.py                # Multi-judge evaluation
+|   |-- semantic_scene_creation_agent.py  # Adversarial edit planner
+|   |-- scene_synthesis_agent.py          # Image-editing scene synthesis
+|   |-- constraint_enforcement_agent.py   # Constraint-checking interface
+|   `-- random_action_agent.py            # Random-action baseline
+|-- config/
+|   |-- datasets.py                       # Dataset path registry
+|   |-- failure_categories.py             # Failure taxonomy
+|   |-- models.py                         # Supported target model configs
+|   `-- tasks.py                          # Task prompts and evaluation criteria
+|-- utils/
+|   |-- categorizer.py                    # Attack category assignment
+|   |-- formatters.py                     # Console/log formatting
+|   |-- logger.py                         # Logging setup
+|   `-- metrics.py                        # Runtime/cost metrics
+|-- scripts/                              # Dataset, analysis, and batch scripts
+|-- questions/                            # Question sets by task and dataset
+|-- final_dataset/                        # Example images for quick experiments
+|-- assets/readme/                        # README failure-case images
+|-- test_main.py                          # Main experiment entry point
+|-- batch_runner.py                       # Batch experiment runner
+|-- requirements.txt
+`-- README.md
+```
+
 ## Failure Cases
 
 ### Failure Case 01
