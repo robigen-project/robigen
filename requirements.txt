@@ -1,0 +1,7 @@
+# Core dependencies
+google-genai
+Pillow
+
+# Multi-model support (Phase 2)
+openai
+requests

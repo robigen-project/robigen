@@ -1,0 +1,794 @@
+
+====================================================================================================
+TASK: PICK_UP
+====================================================================================================
+
+--- hope ---
+  [0000_rgb copy 2.jpg]
+     - orange juice carton                  | The carton is fully visible and stands upright outside the box, offering a clear
+     - yellow mustard bottle                | The bottle is completely visible and accessible, lying flat on the surface next 
+  [0000_rgb copy 3.jpg]
+     - yellow mustard bottle                | The bottle is clearly visible, stands upright, and is isolated from adjacent obj
+     - red BBQ sauce bottle                 | The bottle is clearly visible, stands upright, and is well-separated from other 
+  [0000_rgb copy 4.jpg]
+     - white Cream Cheese box               | The rectangular cream cheese box is fully visible and rests mostly clear of othe
+     - orange Macaroni and Cheese box       | The large, central macaroni and cheese box offers a wide, flat, and relatively u
+  [0000_rgb copy 5.jpg]
+     - yellow mustard squeeze bottle        | The bottle is standing upright and is largely unobstructed, providing a clear an
+     - Macaroni and Cheese box              | The large rectangular box is clearly visible and resting flat on the counter are
+  [0000_rgb copy 6.jpg]
+     - yellow mustard bottle                | The bottle is uniquely colored and shaped, standing clearly separated from surro
+     - red and white milk carton            | This rectangular carton is clearly visible and isolated from other items on its 
+  [0000_rgb copy 7.jpg]
+     - Creamy Ranch Dressing bottle         | This bottle is completely isolated on the shelf surface, providing an unobstruct
+     - Spicy Yellow Mustard bottle          | The mustard bottle is a distinct shape and is clearly visible and graspable insi
+  [0000_rgb copy 8.jpg]
+     - Dairy Fresh Milk carton              | The milk carton is standing upright and is clearly visible and accessible along 
+     - Macaroni and Cheese box              | This large rectangular box is fully visible and unoccluded in the upper left cor
+  [0000_rgb copy.jpg]
+     - orange BBQ Sauce bottle              | The bottle is standing alone on the lower surface and is fully accessible for a 
+     - white Cream Cheese box               | The box is resting by itself on the upper right edge of the cushion and is clear
+  [0000_rgb.jpg]
+     - yellow mustard bottle                | The bottle is located prominently near the center-front and is clearly visible a
+     - Macaroni and Cheese box              | This large, upright rectangular box on the left provides a stable and easily acc
+  [eight.png]
+     - Spam can                             | The cylindrical can is clearly visible and unobstructed next to a red container 
+     - banana                               | The banana is centrally located and easily reachable on the lowest main shelf of
+  [fifth.png]
+     - white mug                            | The mug is fully exposed and clearly separated from other objects on the open ov
+     - green pear                           | The green piece of fruit is completely isolated and exposed on the open oven tra
+  [first.png]
+     - orange juice carton                  | The rectangular carton is large, clearly visible, and isolated from the other cy
+     - Dark Sweet Cherries can              | This upright can is distinct, clearly labeled, and has ample space around it for
+  [fourth.png]
+     - Corny cereal box                     | The box is fully visible, standing upright, and resting on the flat surface abov
+     - Cheez-It box                         | The box is clearly visible, unoccluded, and standing upright on the main kitchen
+  [ninth.png]
+     - Master Chef blue can                 | This large cylindrical can is standing upright and is clearly separated from oth
+     - Domino Sugar box                     | This bright yellow rectangular box is fully visible and standing upright on the 
+  [second.png]
+     - large red CHEEZ-IT Original box      | The large, rectangular shape of the box provides a stable and easily accessible 
+     - white patterned mug                  | The ceramic mug is centrally located, isolated from other objects, and offers cl
+  [seventh.png]
+     - Cheez-It box                         | The rectangular box is clearly visible and freestanding on the kitchen counter, 
+     - Coca-Cola bottle                     | The bottle is standing upright near the sink and is a standard, easily graspable
+  [sixth.png]
+     - Corny cereal box                     | The cereal box is clearly visible and stably resting on the counter surface, mak
+     - blue plastic cup                     | The blue cup is clearly visible and accessible inside the open dishwasher rack f
+  [third.png]
+     - Coca-Cola bottle                     | The bottle is clearly visible and standing upright in the refrigerator door, off
+     - wooden spoon on the stovetop         | This utensil is lying flat on the stovetop surface, isolated from other items, m
+
+--- droid ---
+  [45_frame_00.png]
+     - red toy wagon                        | The small red wagon is fully visible and accessible on the counter surface for a
+     - silver metal bowl                    | The large silver bowl is centrally located and offers a clear, unobstructed rim 
+  [46_frame_02.png]
+     - large clear plastic bottle           | This bottle is centrally located on the counter, fully visible, and easy to gras
+     - small clear plastic bottle           | This bottle is fully visible on the counter and presents a clean, distinct grasp
+  [47_frame_06.png]
+     - the closed black and white book      | The book is large, fully visible, and rests flat on the desk, offering a straigh
+     - the small clear vial                 | The small vial is isolated on the desk surface and is easily reachable for a pre
+  [51_frame_35.png]
+     - yellow corn cob decoration           | The corn decoration is a distinct, isolated object resting clearly on a wooden b
+     - red radish decoration in the left planter  | This radish is a large, distinct, colorful object protruding clearly from the di
+  [58_frame_127.png]
+     - Malibu bottle                        | The bottle is clearly visible and standing upright on the top shelf, making it a
+     - pink plastic cup                     | The cup is isolated and fully visible within the wire hanging basket, presenting
+  [62_frame_660.png]
+     - Kirkland Fabric Softener sheets box  | The box is large, unoccluded, and positioned clearly in the foreground, making i
+     - small orange bowl                    | The bowl is centrally located and has a clear, isolated shape suitable for picki
+  [66_frame_84.png]
+     - small wooden box                     | The box is a rigid, clearly defined object sitting flat on the table, offering c
+     - yellow carrot toy                    | This is a small, distinct, rigid object that is fully visible and isolated on th
+  [67_frame_226.png]
+     - black frying pan                     | The pan is clearly visible and isolated on top of the toy refrigerator, making i
+     - black pot on the stove               | The pot is clearly resting on the burner of the toy stove and is easily accessib
+  [82_frame_313.png]
+     - clear glass tumbler                  | The tumbler is a distinct, rigid object resting clearly on the wooden workbench 
+     - yellow sponge                        | The sponge is clearly visible and isolated on the right side of the workbench, p
+  [93_frame_42.png]
+     - red apple                            | The red apple is clearly visible, isolated on the counter surface, and presents 
+     - large white plastic bottle           | This large bottle is prominently placed on the counter and offers a clear, stabl
+  [94_frame_160.png]
+     - dark cooking pot on the stove        | The pot is a clearly defined, single object resting on the accessible stovetop s
+
+--- egothink ---
+  [002 2.jpg]
+     - teal mug                             | The teal mug is clearly visible, stable, and rests on a flat surface, offering a
+     - black smartphone                     | The black smartphone is fully visible and lying flat on the surface, making it a
+  [002.jpg]
+     - smartphone                           | The smartphone is the central object, perfectly defined, and currently being hel
+     - orange staple gun                    | The orange staple gun is clearly visible and isolated on the wooden surface in t
+  [003.jpg]
+     - large clear glass jar                | The jar is stationary, fully visible on the counter ledge, and offers a clear, s
+     - blue rectangular sponge              | The sponge is clearly visible and isolated on the bottom of the sink basin, maki
+  [005.jpg]
+     - blue and white ceramic mug           | The mug is fully visible, isolated, and presents a standard, easy shape for a ro
+     - large clear plastic water bottle     | The water bottle is standing upright, clearly visible, and offers a straightforw
+  [008.jpg]
+     - white electric water dispenser       | The dispenser is a large, central object on the counter that is clearly visible 
+     - soy sauce bottle with red cap        | The bottle is a distinct, freestanding item on the counter, making it a clean an
+  [009 2.jpg]
+     - large white bottle of hand sanitizer  | It is a large, stable object sitting prominently on the counter, offering clear 
+     - small bottle with a pink cap         | This is a clearly visible, distinct cylindrical container that is easily isolate
+  [009.jpg]
+     - pink long-sleeved shirt              | The shirt is the central object being handled and is fully visible for grasping.
+     - baby doll                            | The doll is clearly visible and resting on a surface near the bottom right, maki
+  [010 2.jpg]
+     - white digital scale                  | The scale is clearly visible and isolated on the counter edge on the lower left,
+     - white plastic pitcher                | The pitcher is sitting on the lower right counter and has a visible handle, prov
+  [012.jpg]
+     - black kitchen knife                  | The knife is clearly visible and lying flat on the cutting board with its handle
+     - black smartphone                     | The smartphone is resting stationary and clearly visible on the metal countertop
+  [014.jpg]
+     - the peach near the faucet            | The fruit is isolated and clearly visible, resting on the edge of the sink caddy
+     - the small metal strainer in the sink  | This small colander is fully visible and accessible within the sink basin, provi
+  [015.jpg]
+     - black frying pan                     | The frying pan is centrally located on the counter and the handle provides a cle
+     - white ceramic mug                    | The mug is clearly visible resting near the sink and provides a standard, easily
+  [019.jpg]
+     - the kitchen knife                    | The knife is clearly visible and accessible, resting flat on the counter with it
+     - the long brown root vegetable        | This distinct, unoccluded item is lying flat on the counter next to the cutting 
+  [020.jpg]
+     - red Jenga box                        | It is a distinct, rectangular object resting fully exposed on a flat surface bel
+     - small blue electronic device         | It is a small, block-shaped item resting clearly on the console near the Jenga b
+
+--- robo2vlm ---
+  [159-fractal20220817_data_place_blue_plastic_bottle_upright_3473_q3.png]
+     - plastic water bottle                 | The bottle is distinct, mostly isolated, and presents a clear cylindrical shape 
+     - green soda can                       | The can is upright, clearly visible, and offers a stable cylindrical shape suita
+  [19.png]
+     - white mug with orange rim            | The mug is upright, clearly visible, and offers a robust cylindrical grasping su
+     - closed silver laptop                 | The laptop is flat, fully visible on the counter, and presents a large surface a
+  [234-droid_pick_up_the_objects_from_the_cover_box_and_put_them_on_the_counter_5144_q8.png]
+     - dark beverage bottle                 | The bottle is standing upright on the counter, offering a clear and stable side-
+     - orange snack bag (right)             | This small bag is isolated and clearly visible inside the cardboard tray, making
+  [235-droid_pick_up_the_objects_from_the_table_and_put_them_in_the_plastic_bag_8822_q1.png]
+     - brown stuffed animal toy             | The stuffed animal is clearly visible and isolated on the table, offering a stra
+     - orange lidded container              | The small container is distinct, sitting on the table, and presents a solid, eas
+  [236-droid_pick_up_the_objects_from_the_table_and_put_them_on_the_plastic_5775_q17.png]
+     - purple Play-Doh container            | This cylindrical container is clearly visible, unobstructed, and presents a simp
+     - yellow Play-Doh container            | This container is distinct from its neighbors, clearly visible, and its cylindri
+  [32.png]
+     - small brown rectangular box          | This rigid, distinct box is fully visible and easily accessible on the surface n
+     - white instruction card sticking out of the box  | The card is upright, clearly visible, and provides a distinct, individual target
+  [4.png]
+     - the blue and yellow textbook         | The textbook is a large, flat, and easily accessible object resting clearly on t
+     - the taped brown cardboard box        | This large box is positioned prominently in the foreground and offers a stable, 
+  [40.png]
+     - large toy pot                        | The pot is prominently displayed on the counter and is easily reachable for a gr
+     - red toy bowl                         | The small red bowl is sitting flat on the toy stovetop, providing a clear target
+  [41.png]
+     - red bowl                             | The red bowl is large, fully visible, and rests stably on the counter next to th
+     - green rectangular block              | The green block is clearly isolated and resting flat on the center of the stovet
+
+--- robovqa ---
+  [10001159773342828176.png]
+     - yellow-green plastic fork            | The fork is clearly visible and isolated on the countertop surface, providing a 
+     - orange plastic plate                 | The plate is fully exposed and resting flat inside the drawer, making it easily 
+  [10001746729769259321.png]
+     - the small wooden sphere being held by the tongs  | It is clearly visible, isolated, and actively being manipulated, making it a foc
+     - the triangular wooden block          | It is a clearly defined, standalone object resting stably on the counter, offeri
+  [1000197918344638078.png]
+     - gray tumbler in the drawer           | The tumbler is isolated and clearly visible lying on its side inside the open dr
+     - light green mug on the table         | This mug is standing upright and unobstructed on the main table surface, making 
+  [10002354224416175984.png]
+     - blue and white marker                | The marker is clearly isolated and resting flat in the open top compartment of t
+     - small green bottle of hand sanitizer  | The bottle is clearly visible and sitting flat on the bottom surface of the open
+  [10003476239865748012.png]
+     - blue folder                          | The blue folder is clearly visible and lying flat on the desk, presenting a larg
+     - pen cup                              | The cylindrical pen cup is a distinct, upright object easily reachable on the de
+  [12799806041675014235.png]
+     - the brown bowl                       | The bowl is a distinct, isolated object on the flat surface, providing a clear t
+     - the white marker                     | The marker is a small, linear object lying flat on the desk, which is suitable f
+  [13185411814790354058.png]
+     - dark computer mouse                  | It is a clearly defined, isolated object resting flat on the table surface, suit
+     - white round sensor device            | This small device is clearly separated from other items (except its cable) and o
+  [13883200476867741853.png]
+     - blue marker                          | The blue marker is lying flat and isolated on the desk surface, providing a clea
+     - green card                           | The green card is clearly visible and easily accessible within the mesh organize
+  [13958681530118257604.png]
+     - the small brush                      | The brush is clearly visible and separated from the other objects in the tray, p
+     - the red apple                        | The apple is a distinct, rounded object resting openly in the tray, suitable for
+  [14485517414752823386.png]
+     - small rectangular gold box           | This is a distinct, solid object resting flat on the table, making it an easy ta
+     - small orange handheld device         | The device is isolated and has a distinct, solid shape, providing clear surfaces
+  [15773733330757311773.png]
+     - brown bowl                           | The brown bowl is clearly visible, isolated on the table surface, and presents a
+     - bag of chips                         | The sealed bag of chips is clearly defined, separated from other objects, and pr
+
+====================================================================================================
+TASK: DETECTION
+====================================================================================================
+
+--- hope ---
+  [0000_rgb copy 2.jpg]
+     - Macaroni and Cheese box   (n= 3)  | There are three Macaroni and Cheese boxes visible standing upright inside t
+     - Corn can                  (n= 2)  | Two identical cylindrical cans labeled 'CORN' are stacked vertically near t
+  [0000_rgb copy 3.jpg]
+     - box                       (n= 7)  | There are three pairs of stacked boxes (macaroni, granola, raisins) and one
+     - can                       (n= 7)  | There are five small cylindrical cans (pineapple, peaches, soup, tuna, corn
+  [0000_rgb copy 4.jpg]
+     - Toy Squeeze Bottle        (n= 3)  | Three distinct squeeze bottles (ketchup, BBQ sauce, and mustard) are clearl
+     - Toy Can                   (n= 5)  | Five distinct cylindrical cans or open containers are visible, including th
+  [0000_rgb copy 5.jpg]
+     - Tomato Sauce Can          (n= 3)  | Three red and white labeled cylindrical cans, identified as Tomato Sauce, a
+     - Orange Juice Carton       (n= 2)  | Two small, identical rectangular cartons labeled Orange Juice are visible s
+  [0000_rgb copy 6.jpg]
+     - Can                       (n= 7)  | There are seven distinct cylindrical cans visible, including three on the f
+     - Box                       (n= 7)  | There are seven rectangular boxed goods visible, including Raisins, Milk, O
+  [0000_rgb copy 7.jpg]
+     - can                       (n= 7)  | There are seven distinct cylindrical cans containing food items (e.g., corn
+     - Raisins box               (n= 2)  | Two identical red and purple boxes labeled 'Raisins' are clearly visible in
+  [0000_rgb copy 8.jpg]
+     - Tomato Ketchup bottle     (n= 2)  | There is one smaller red squeeze bottle near the top center and one larger 
+     - Raisins box               (n= 2)  | There are two rectangular cardboard boxes labeled 'RAISINS' with a purple d
+  [0000_rgb copy.jpg]
+     - Macaroni and Cheese box   (n= 3)  | Three distinct cardboard boxes labeled 'SO CHEESY! MACARONI AND CHEESE' are
+     - Mayonnaise bottle         (n= 2)  | Two identical plastic bottles labeled 'MAYO' with blue caps are visible, on
+  [0000_rgb.jpg]
+     - Macaroni and Cheese box   (n= 2)  | Two identical red boxes labeled 'Macaroni and Cheese' are standing upright 
+     - BBQ Sauce bottle          (n= 2)  | Two identical red squeezable bottles labeled 'BBQ Sauce' are visible near t
+  [eight.png]
+     - can                       (n= 4)  | Four distinct cans (Spam, two silver/yellow cans, and one red/white Tomato 
+     - egg                       (n= 3)  | Three white eggs are clearly visible resting on the top shelf of the refrig
+  [fifth.png]
+     - Orange                    (n= 3)  | There are three round orange fruits clearly visible inside the glass door o
+     - Plastic lid               (n= 2)  | There are two distinct colored plastic lids (yellow and purple) resting in 
+  [first.png]
+     - Toy food can              (n= 9)  | Nine distinct toy cans are visible on the table, scattered in various orien
+     - Can standing upright      (n= 4)  | Four cans are standing vertically on the table: the 'Cherries', 'Carrots', 
+  [fourth.png]
+     - Cup                       (n= 3)  | Three brightly colored plastic cups (green, blue, yellow) are hanging secur
+     - Box of food               (n= 2)  | One Corny cereal box is located on the upper shelf, and one Cheez-It cracke
+  [ninth.png]
+     - cylindrical can           (n= 5)  | There are three cans visible in the upper cabinets, one large silver/yellow
+     - bottle                    (n= 4)  | Four distinct bottles are visible on the countertop: a Coca-Cola bottle, a 
+  [second.png]
+     - drinking mug or cup       (n= 2)  | A brown ceramic cup is located in the upper middle area, and a white patter
+     - cylindrical metal food can (n= 3)  | One yellow-labeled can is near the center top, one Ravioli-labeled can is s
+  [seventh.png]
+     - Corny food box            (n= 2)  | One Corny box is located on the counter next to the coffee maker, and anoth
+     - Plate                     (n= 2)  | One large red plate is in the dishwasher rack, and one small red plate or b
+  [sixth.png]
+     - tomato                    (n= 2)  | Two red tomatoes are clearly visible placed on a plate inside the open micr
+     - cup                       (n= 2)  | A blue cup and a green cup are visible resting in the wire rack of the open
+  [third.png]
+     - Utensil (kitchen tool)    (n= 6)  | Six distinct kitchen tools (fork, spoon, spatula, ladle, knife, whisk) are 
+     - Box (product packaging)   (n= 5)  | Five distinct cardboard product boxes/cartons are visible on the kitchen co
+
+--- droid ---
+  [45_frame_00.png]
+     - wheel                     (n= 4)  | Four white wheels are attached to the small red toy wagon located on the le
+  [46_frame_02.png]
+     - Plastic bottle            (n= 2)  | There is one large clear bottle with an orange label and one smaller bottle
+  [47_frame_06.png]
+     - book                      (n= 1)  | A single large, hard-cover book is lying flat on the wooden desk surface in
+     - keyboard                  (n= 1)  | A single black computer keyboard is partially visible behind the book near 
+  [51_frame_35.png]
+     - Radish Model              (n= 3)  | Three large red and pink radish models are clearly visible, each placed ins
+     - Rectangular Planter       (n= 3)  | Three identical blue-green rectangular planters are lined up horizontally b
+  [58_frame_127.png]
+     - Cup                       (n= 2)  | There are two brightly colored cups, one pink and one blue, visible on the 
+     - Small box                 (n= 4)  | Four small, rectangular boxes are stacked two high and two wide on the uppe
+  [62_frame_660.png]
+     - bowl                      (n= 3)  | There is one blue plastic bowl, one orange plastic bowl, and one small silv
+     - plastic spatula           (n= 2)  | Two identical blue and green plastic spatulas are leaning against the contr
+  [66_frame_84.png]
+     - Toy vegetable             (n= 2)  | There is a yellow toy carrot and a yellow toy banana resting clearly on the
+     - Person                    (n= 3)  | Three distinct individuals are visible in the middle and right background a
+  [67_frame_226.png]
+     - Stove knob                (n= 4)  | There are four circular white knobs located horizontally on the control pan
+     - Handle                    (n= 3)  | There are three distinct handles visible: one on the upper refrigerator doo
+  [82_frame_313.png]
+     - T-handle wrench           (n= 2)  | Two yellow T-handle wrenches are distinctly visible hanging on the left sid
+     - Wrench (silver)           (n= 2)  | Two silver wrenches or spanners are hanging next to each other in the middl
+  [93_frame_42.png]
+     - plastic bottle            (n= 3)  | There are three distinct plastic cleaning supply bottles visible on the cou
+     - small cylindrical container (n= 2)  | Two smaller cylindrical objects are present: a dark brown can/package near 
+  [94_frame_160.png]
+     - burner grate              (n= 4)  | Four circular metal grates are visible on the stovetop surface to the right
+     - refrigerator shelf        (n= 2)  | Two main horizontal shelves are clearly visible inside the cavity of the op
+
+--- egothink ---
+  [002 2.jpg]
+     - Throw pillow              (n= 2)  | There are two red/orange throw pillows visible resting against the backrest
+     - Wooden block              (n=24)  | The visible Jenga tower is constructed from 8 layers, each containing 3 woo
+  [002.jpg]
+     - hand                      (n= 2)  | The person is using two hands to grip the smartphone in the center of the i
+     - hole                      (n= 2)  | Two large, circular drilled holes are clearly visible in the light-colored 
+  [003.jpg]
+     - sponge                    (n= 2)  | One yellow and green sponge is visible in the caddy behind the faucet, and 
+     - sink basin                (n= 2)  | The image clearly depicts a double kitchen sink setup with two separate bas
+  [005.jpg]
+     - plastic bottle            (n= 2)  | There are two distinct plastic bottles, one large water bottle and one smal
+     - bird (decal)              (n=11)  | There are eleven distinct, colorful bird figures depicted on the decorative
+  [008.jpg]
+     - tomato slices             (n= 4)  | Four distinct red slices of tomato are visible on the cutting board being h
+     - cooking ingredient bottles (n= 3)  | Three distinct bottles (green, dark sauce, clear oil/vinegar) are standing 
+  [009 2.jpg]
+     - pink-capped bottles       (n= 6)  | Six identical small bottles with bright pink caps are clearly visible, stac
+     - Strepsils boxes           (n= 4)  | Four distinct product boxes clearly labeled 'Strepsils' are lined up horizo
+  [009.jpg]
+     - Hand                      (n= 2)  | Both the left and right hands of the person folding the garment are clearly
+     - Finger                    (n=10)  | All five fingers on the left hand and all five fingers on the right hand ar
+  [010 2.jpg]
+     - beverage urn              (n= 3)  | There is one large stainless steel urn on the left counter and two similar 
+     - shaker bottle             (n= 4)  | Four clear glass or plastic shaker bottles are visible on the metal drainin
+  [012.jpg]
+     - avocado half              (n= 2)  | One large avocado half is held in the left hand, and the other half is held
+     - stove grate               (n= 3)  | There are three distinct metal pot supports visible on the gas stovetop on 
+  [014.jpg]
+     - hand                      (n= 2)  | Both the left and right hands of the person are clearly visible holding the
+     - red flower bloom          (n= 2)  | Two distinct, large red flower blooms are visible in the small vase near th
+  [015.jpg]
+     - small bottle/jar          (n= 8)  | Eight colorful small bottles or spice jars are visible inside the white org
+     - spoon                     (n= 2)  | One spoon is resting in the bowl of noodles on the left, and another metal 
+  [019.jpg]
+     - radish chunk              (n= 4)  | There are four distinct, roughly triangular chunks of white vegetable (like
+     - blue bottle               (n= 3)  | Three distinct cobalt blue bottles are standing upright on the counter behi
+  [020.jpg]
+     - rectangular window pane   (n= 6)  | There are six clearly visible, distinct rectangular glass sections framed b
+     - sofa cushion              (n= 3)  | Three large, distinct, tufted blue cushions form the visible backrest of th
+
+--- robo2vlm ---
+  [159-fractal20220817_data_place_blue_plastic_bottle_upright_3473_q3.png]
+     - plastic bottle            (n= 1)  | One clear plastic bottle is lying horizontally near the center right of the
+     - soda can                  (n= 1)  | One metallic soda can is sitting upright on the bottom left of the table.
+  [19.png]
+     - drawer handle             (n= 2)  | There are two silver horizontal handles mounted on the wooden drawers below
+     - wireless mouse            (n= 2)  | Two small black rounded devices resembling wireless mice are visible on the
+  [234-droid_pick_up_the_objects_from_the_cover_box_and_put_them_on_the_counter_5144_q8.png]
+     - packaged snack bag        (n= 2)  | There are two small, brightly colored packaged snack bags sitting inside th
+     - round woven placemat      (n= 2)  | Two round, woven placemats are clearly visible on the speckled counter surf
+  [235-droid_pick_up_the_objects_from_the_table_and_put_them_in_the_plastic_bag_8822_q1.png]
+     - Stuffed animal            (n= 1)  | A single brown stuffed animal is lying fully visible on the right side of t
+     - Play-Doh container        (n= 1)  | A single red and yellow Play-Doh container is visible near the base of the 
+  [236-droid_pick_up_the_objects_from_the_table_and_put_them_on_the_plastic_5775_q17.png]
+     - modeling clay tub         (n= 4)  | There are four distinct, unoccluded modeling clay tubs visible in the foreg
+     - purple modeling clay tub  (n= 2)  | Two of the four tubs are clearly purple or magenta/pink in color, distinct 
+  [32.png]
+     - box                       (n= 2)  | One large white cardboard box is in the foreground, and one smaller brown p
+     - card or label             (n= 2)  | One white card with text is sticking out of the large box, and one small bl
+  [4.png]
+     - plastic balls             (n= 5)  | Five distinct colored spherical objects (plastic balls) are visible inside 
+     - clamps                    (n= 2)  | Two red and black clamps are securing the mounting structure on the far lef
+  [40.png]
+     - Toy spice bottle          (n= 2)  | There are two small white and red toy spice bottles located on the stove to
+     - Toy kitchen handle        (n= 4)  | Four matching white/grey handles are clearly visible on the front doors of 
+  [41.png]
+     - stove knob                (n= 6)  | Six white and grey circular knobs are clearly visible on the front panel of
+     - clamp                     (n= 2)  | Two black and orange clamps are fixed onto the metal frame structure in the
+
+--- robovqa ---
+  [10001159773342828176.png]
+     - Plate                     (n= 4)  | There is one green plate on the counter and three distinct plates (red, ora
+     - Cup                       (n= 5)  | One green cup is visible on the counter, and four colorful cups (pink, yell
+  [10001746729769259321.png]
+     - Shape sorter holes/cutouts (n= 5)  | There are five distinct shapes cut out on the top surface of the wooden toy
+     - Wooden toy blocks/pieces  (n= 3)  | Three loose wooden toy pieces are visible: a triangular prism block, a rect
+  [1000197918344638078.png]
+     - cup                       (n= 5)  | There are two green mugs, one pink cup lying down, one blue cup held by the
+     - green mug                 (n= 2)  | Two distinct green mugs with handles are standing upright on the table surf
+  [10002354224416175984.png]
+     - Unreal snack wrapper      (n= 3)  | Three distinct red wrappers labeled 'UNREAL' are clearly visible on the lig
+     - Wrapped snack/candy       (n= 4)  | Four individual wrapped food items, three red and one yellow, are resting o
+  [10003476239865748012.png]
+     - Ring binder               (n= 2)  | Two black ring binders are clearly visible stacked on the back left of the 
+     - Office chair              (n= 2)  | One full chair is visible on the left, and the backrest of a second chair i
+  [12799806041675014235.png]
+     - drawer handle             (n= 2)  | Two distinct curved metal drawer handles are visible on the front of the da
+     - coiled cable              (n= 2)  | There is one coiled orange cable near the top right and one coiled black ca
+  [13185411814790354058.png]
+     - pen                       (n= 7)  | There are five blue pens lying flat near the center-left of the table and t
+  [13883200476867741853.png]
+     - Marker                    (n= 4)  | Four upright markers (two yellow and two pink) are clearly visible standing
+     - Pen                       (n= 8)  | Eight pens are visible, including the one held by the hand and the seven st
+  [13958681530118257604.png]
+     - apple                     (n= 2)  | There are two red/orange apples clearly visible inside the green tray on th
+     - bin                       (n= 2)  | There are two colored bins (one yellow and one dark) standing next to the w
+  [14485517414752823386.png]
+     - coiled cable              (n= 2)  | There is one orange coiled cable and one black coiled cable resting on the 
+     - orange measuring tool     (n= 2)  | Two orange handheld tools, likely tape measures or similar, are visible nea
+  [15773733330757311773.png]
+     - dry erase marker          (n= 5)  | Four orange and white markers are lying on the table, and one is being held
+     - stacked paper bowl        (n= 5)  | Five small white paper bowls with a green rim are clearly stacked together 
+
+====================================================================================================
+TASK: AMBIGUITY
+====================================================================================================
+
+--- hope ---
+  [0000_rgb copy 2.jpg]
+     - the can                         matches: ['the can of corn', 'the can of peas and carrots', 'the can of sliced peaches']
+     - the sauce bottle                matches: ['the red BBQ sauce bottle', 'the yellow mustard bottle', 'the white mayonnaise bottle']
+  [0000_rgb copy 3.jpg]
+     - the can of tomato sauce         matches: ['the top can', 'the bottom can']
+     - the Macaroni and Cheese box     matches: ['the leftmost box', 'the second box from the left']
+  [0000_rgb copy 4.jpg]
+     - the box                         matches: ['The large orange Macaroni and Cheese box', 'The red and white Butter box with a cow', 'The small white Cream Cheese box']
+     - the can                         matches: ['The blue Alphabet Soup can', 'The colorful can on the bottom left (Pineapple)', 'The small red can near the center']
+  [0000_rgb copy 5.jpg]
+     - The can                         matches: ['The red can labeled Tomato Sauce', 'The yellow can labeled Pineapple Slices', 'The dark green can labeled Tuna Fish']
+     - The box                         matches: ['The large white and red Cookies box', 'The large orange and red Macaroni and Cheese box']
+  [0000_rgb copy 6.jpg]
+     - The Ketchup bottle              matches: ['The bottle in the front row, to the left of the other Ketchup bottle', 'The bottle in the front row, to the right, closer to the BBQ sauce']
+     - The butter                      matches: ['The butter package on the left, near the Raisins box', 'The butter package on the right, near the Yellow Mustard bottle']
+  [0000_rgb copy 7.jpg]
+     - the can of fruit                matches: ['the can of pineapple slices', 'the can of cherries']
+     - the box of raisins              matches: ['the raisins box closer to the pudding', 'the raisins box closer to the granola bars']
+  [0000_rgb copy 8.jpg]
+     - the ketchup bottle              matches: ['the tall, narrow ketchup bottle near the milk carton', 'the shorter, wider ketchup bottle near the mustard']
+     - the can                         matches: ['the can labeled corn on top of the stack', 'the can labeled cherries near the mayonnaise']
+  [0000_rgb copy.jpg]
+     - The Macaroni and Cheese box     matches: ['The box near the top left', 'The box near the bottom center']
+     - The Mayo bottle                 matches: ['The one positioned higher on the fabric', 'The one on the bottom right, next to the stacked cans']
+  [0000_rgb.jpg]
+     - the red box                     matches: ['the large Macaroni and Cheese box', 'the small Farm Fresh Butter box']
+     - the yellow box                  matches: ['the Granola Bars box', 'the Popcorn box']
+  [eight.png]
+     - the can on the bottom shelf     matches: ['the green and yellow labeled can on the left', "the white and red labeled can in the center (Campbell's)"]
+     - the box on the top shelf        matches: ['the dark blue and green box on the left', 'the yellow and orange box on the right']
+  [fifth.png]
+     - the fruit                       matches: ['the green pear on the oven door', 'the yellow and red apple on the oven door', 'the orange inside the microwave']
+     - the bowl                        matches: ['the red bowl on the oven door', 'the yellow plastic bowl in the dishwasher', 'the purple plastic bowl in the dishwasher']
+  [first.png]
+     - The standing can                matches: ['The Carrots can (green/orange) in the center', 'The Cherries can (purple/red) near the bottom', 'The open Pears/Peaches can (red/yellow) on the bottom left']
+     - The red can                     matches: ['The Sliced Peaches can (lying down, center right)', 'The Cherries can (standing, bottom center)', 'The open can with the peach design (standing, bottom left)']
+  [fourth.png]
+     - The cup                         matches: ['The green cup hanging in the dishwasher', 'The blue cup standing in the dishwasher', 'The yellow cup hanging in the dishwasher']
+     - The box                         matches: ['The yellow Corny box on the upper shelf', 'The red Cheez-It box on the lower counter']
+  [ninth.png]
+     - The Püree box                   matches: ['the Püree box in the left cabinet', 'the Kartoffel Püree box in the right cabinet']
+     - The can in the middle cabinet   matches: ['the large blue Master Chef can', "the red and white Campbell's Soup can"]
+  [second.png]
+     - the mug                         matches: ['the white ceramic mug with a handle in the center', 'the solid dark red cup near the top edge']
+     - the can                         matches: ["the red and white Campbell's soup can near the bottom right", 'the large yellow can of ravioli that is stacked']
+  [seventh.png]
+     - The Corny box                   matches: ['The Corny box on the blue mat on the counter', 'The Corny box on the bottom shelf of the open cabinet']
+     - The can                         matches: ['The small yellow can on the counter next to the Cheez-It box', 'The large silver tin can on the top shelf of the open cabinet']
+  [sixth.png]
+     - the red item                    matches: ['the red plate in the dishwasher rack', 'one of the tomatoes/apples inside the microwave']
+     - the cup                         matches: ['the blue cup in the dishwasher rack', 'the green container/cup in the dishwasher rack']
+  [third.png]
+     - the box                         matches: ['the yellow box of Corny cereal on the left', 'the large blue box of chocolates on the right']
+     - the spoon                       matches: ['the wooden spoon resting on the stovetop', 'the dark blue ladle in the open drawer']
+
+--- droid ---
+  [45_frame_00.png]
+     - the bowl                        matches: ['the large silver mixing bowl', 'the small white and blue patterned dish']
+  [46_frame_02.png]
+     - the bottle                      matches: ['the large clear bottle with the orange character label', 'the small bottle containing brown liquid']
+  [47_frame_06.png]
+     - the small upright object        matches: ['The white pen or marker', 'The clear plastic vial or bottle']
+     - the black device                matches: ['The flat keyboard located toward the back', 'The thick rectangular gadget in the center next to the vial']
+  [51_frame_35.png]
+     - the cloth                       matches: ['the green cloth inside the sink', 'the blue cloth on the counter']
+     - the bowl                        matches: ['the stainless steel bowl closer to the viewer', 'the stainless steel bowl near the wooden block']
+  [58_frame_127.png]
+     - The cup                         matches: ['The red cup', 'The blue cup']
+     - The bottle                      matches: ['The bottle of Malibu', 'The bottle containing red liquid']
+  [62_frame_660.png]
+     - The bowl                        matches: ['The small silver metal bowl', 'The orange plastic bowl', 'The blue plastic bowl']
+     - The box                         matches: ['The orange Kirkland Fabric Softener box on the left machine', 'The pink box on the right machine']
+  [66_frame_84.png]
+     - the container                   matches: ['the square wooden box with red sides', 'the round silver ashtray or container']
+     - the wooden block                matches: ['the main red and wood box structure', 'the small wooden lid resting on top of the box']
+  [67_frame_226.png]
+     - The pan                         matches: ['The black pan resting on top of the refrigerator', 'The black pan sitting on the stove burner']
+     - The door of the refrigerator    matches: ["The upper door with the 'NOTES' section", 'The lower door with the water dispenser']
+  [82_frame_313.png]
+     - the wrench                      matches: ['the yellow T-handle wrench', 'the silver combination wrench below the T-handle']
+     - the hammer                      matches: ['the hammer with the wooden handle on the right', 'the dark metal hammer near the center']
+  [93_frame_42.png]
+     - The bottle                      matches: ['The large white plastic bottle', 'The dark blue cylindrical bottle', 'The dark red/brown container']
+     - The red item                    matches: ['The red apple', 'The red and silver mug', 'The dark red/brown cylindrical container']
+  [94_frame_160.png]
+     - The appliance                   matches: ['The open refrigerator on the right', 'The stove/oven unit next to the refrigerator']
+     - The shelf                       matches: ['The top shelf inside the refrigerator compartment', 'The middle shelf inside the refrigerator compartment', 'A door shelf']
+
+--- egothink ---
+  [002 2.jpg]
+     - the red pillow                  matches: ['the red pillow on the left side of the sofa', 'the red pillow on the right side of the sofa']
+     - the black object                matches: ['the flat black object (smartphone) next to the mug', 'the rectangular black object (wallet/case) next to the mug']
+  [002.jpg]
+     - the board                       matches: ['the light-colored board with two holes', 'the darker, thicker plank behind the light board']
+     - the yellow tool                 matches: ['the small yellow saw on the floor to the left', 'the large yellow and black Bostitch machine on the right']
+  [003.jpg]
+     - the sponge                      matches: ['the yellow and green sponge in the holder behind the faucet', 'the blue sponge in the right sink basin']
+     - the container                   matches: ['the large white storage container on the left counter', 'the small clear plastic rectangular container near the window']
+  [005.jpg]
+     - the bottle                      matches: ['the tall clear water bottle', 'the small bottle containing yellow liquid']
+     - the bag                         matches: ['the clear plastic bag containing fruit on the left', 'the blue plastic bag wrapped around the water bottle']
+  [008.jpg]
+     - the bottle                      matches: ['the clear bottle with the red cap (dark liquid)', 'the clear bottle with the gold cap (clear oil)']
+     - the bowl                        matches: ['the metal bowl containing sliced cucumbers and lettuce', 'the dark pot/inner bowl sitting in the sink']
+  [009 2.jpg]
+     - the Strepsils box               matches: ['Strepsils Original (red and white packaging)', 'Strepsils Ginger (yellow and orange packaging)']
+     - the hand sanitizer              matches: ['the large white Handy Gel pump bottle', 'the small blue squeeze bottle near the back']
+  [009.jpg]
+     - the toy                         matches: ['the baby doll in the crib', 'the white stuffed animal on the floor']
+     - the hand                        matches: ['the left hand holding the fabric', 'the right hand holding the fabric']
+  [010 2.jpg]
+     - the large metal container       matches: ['The single silver container on the lower left counter', 'One of the two silver containers grouped on the upper right shelf']
+     - the bottle                      matches: ['The brown syrup bottle on the far left shelf', 'The clear shaker bottle standing upright in the center prep area']
+  [012.jpg]
+     - the avocado half                matches: ['the half containing the pit', 'the half being peeled off']
+     - the chopped vegetables          matches: ['the greens draining in the colander', 'the greens bagged on the counter']
+  [014.jpg]
+     - the bottle                      matches: ['the green spray bottle on the left counter edge', 'the clear/orange liquid bottle in the wire rack above the sink', 'the small spice bottles on the right shelf']
+     - the cutting board               matches: ['the board currently in use (white with green trim)', 'the large plain white board standing vertically in the background']
+  [015.jpg]
+     - the bowl                        matches: ['the white bowl containing noodles on the left side of the pan', 'the empty teal bowl near the sink']
+     - the bottle                      matches: ['the tall white spray bottle behind the pan', 'the small green bottle next to the spray bottle']
+  [019.jpg]
+     - The bottle                      matches: ['The dark blue bottle', 'The clear oil bottle']
+     - The pan                         matches: ['The black frying pan', 'The silver saucepan']
+  [020.jpg]
+     - the box                         matches: ['The red Jenga game box on top', 'The large black media console box underneath']
+     - the device                      matches: ['The small blue electronic item next to the Jenga box', 'The large black media console below the Jenga box']
+
+--- robo2vlm ---
+  [159-fractal20220817_data_place_blue_plastic_bottle_upright_3473_q3.png]
+     - The beverage container          matches: ['The clear plastic bottle', 'The green aluminum can']
+     - The item on the left            matches: ['The bag of chips (top left)', 'The aluminum can (bottom left)']
+  [19.png]
+     - The electronic device           matches: ['the silver closed laptop on the right', 'the large black flat device on the left']
+     - The container                   matches: ['the white mug holding a pen', 'the orange fire extinguisher']
+  [234-droid_pick_up_the_objects_from_the_cover_box_and_put_them_on_the_counter_5144_q8.png]
+     - the snack bag                   matches: ['the snack bag on the left side of the tray', 'the snack bag on the right side of the tray']
+     - the placemat                    matches: ['the placemat on the left', 'the placemat on the right']
+  [235-droid_pick_up_the_objects_from_the_table_and_put_them_in_the_plastic_bag_8822_q1.png]
+     - The container                   matches: ['The small orange plastic jar', 'The brown cardboard box']
+     - The brown object                matches: ['The brown cardboard box', 'The brown stuffed animal']
+  [236-droid_pick_up_the_objects_from_the_table_and_put_them_on_the_plastic_5775_q17.png]
+     - The yellow container            matches: ['The yellow Play-Doh container closest to the purple container', 'The yellow Play-Doh container closest to the orange container']
+     - The orange container            matches: ['The short, wide Play-Doh container with the orange lid', 'The tall, narrow spice jar with the orange lid inside the plastic bag']
+  [32.png]
+     - the box                         matches: ['the large white storage box', 'the small brown package box']
+     - the white item                  matches: ['the large white storage box', 'the white paper note inside the box']
+  [4.png]
+     - the cardboard box               matches: ['the large, taped box in the foreground', 'the small, open box on the left']
+     - the black electronic device     matches: ['the small rectangular block next to the book', 'the screen/tablet display on the right']
+  [40.png]
+     - The pot                         matches: ['The large gray pot on the left counter', 'The small black pot on the stovetop']
+     - The container                   matches: ['The small red bowl on the stovetop', 'The small white shaker bottle next to the bowl']
+  [41.png]
+     - The container                   matches: ['The large red bowl on the counter', 'The small yellow/green dish on the wooden side table']
+     - The object on the cooktop       matches: ['The black cooking pot', 'The green rectangular scrubber']
+
+--- robovqa ---
+  [10001159773342828176.png]
+     - the green cup                   matches: ['The bright green cup sitting on the countertop', 'The green cup standing upright in the drawer']
+     - the round plate                 matches: ['The red plate on the left', 'The orange plate in the center', 'The purple plate at the bottom']
+  [10001746729769259321.png]
+     - the block                       matches: ['the triangular block', 'the rectangular block']
+     - the drawer                      matches: ['the light yellow drawer on the left', 'the light blue drawer on the right']
+  [1000197918344638078.png]
+     - The mug                         matches: ['The left light-green mug', 'The right light-green mug']
+     - The cup lying down              matches: ['The pink cup on the table', 'The gray cup in the drawer']
+  [10002354224416175984.png]
+     - The red candy wrapper           matches: ['The leftmost wrapper', 'The middle wrapper, next to the yellow one', 'The rightmost wrapper']
+     - The blue marker                 matches: ['The marker inside the black mesh cup on the desk', 'The marker lying horizontally in the upper section of the pulled-out drawer']
+  [10003476239865748012.png]
+     - the notebook                    matches: ['the maroon spiral notebook being held by the robot', 'the speckled black and white notebook near the blue folder']
+     - the binder                      matches: ['the stack of two black binders on the far left', 'the blue folder/binder on the right side of the desk']
+  [12799806041675014235.png]
+     - The coiled cable                matches: ['The black cable', 'The orange cable']
+     - The box                         matches: ['The small black electronic box on the desk', 'The large cardboard box on the floor']
+  [13185411814790354058.png]
+     - the black box                   matches: ['the small cube-shaped container near the center', 'the large rectangular speaker or device behind the small box']
+     - the blue cable                  matches: ['the long cable connected to the white sensor device', 'the bundle of short blue cables near the mouse']
+  [13883200476867741853.png]
+     - the highlighter                 matches: ['The yellow highlighter in the mesh container', 'The blue highlighter lying flat on the table']
+     - the black organizer             matches: ['The large mesh multi-compartment organizer on the left', 'The small solid cup organizer on the right']
+  [13958681530118257604.png]
+     - the apple                       matches: ['the apple on the left', 'the apple near the carrot']
+     - the wipe                        matches: ['the blue cloth wipe', 'the white rectangular sponge wipe']
+  [14485517414752823386.png]
+     - the box                         matches: ['The large cardboard box on the floor', 'The small brown package on the table']
+     - the coiled cable                matches: ['The orange cable', 'The black cable']
+  [15773733330757311773.png]
+     - the bowl                        matches: ['The large brown bowl on the left', 'The stack of small white disposable bowls']
+     - the marker                      matches: ["The marker currently held by the robot's gripper", 'Any of the markers lying loose on the table']
+
+====================================================================================================
+TASK: ATTRIBUTE
+====================================================================================================
+
+--- hope ---
+  [0000_rgb copy 2.jpg]
+     - Cardboard box                  | Opened         = True  | The top flaps of the cardboard box are unfolded, clearly rev
+     - Can of sliced peaches          | Sealed         = False | The lid of the peach can has been completely removed, indica
+  [0000_rgb copy 3.jpg]
+     - Alphabet Soup can              | Sealed         = True  | The metal lid is firmly attached to the top rim of the can, 
+     - Yellow Mustard bottle          | Opened         = False | The yellow squeeze cap is clearly visible and closed on top 
+  [0000_rgb copy 4.jpg]
+     - Alphabet Soup can              | sealed         = True  | A gray lid is visibly placed and secured on top of the blue 
+     - Macaroni and Cheese box        | opened         = False | The orange cardboard box is fully closed and shows no signs 
+  [0000_rgb copy 5.jpg]
+     - Tomato Sauce can (standing upright) | opened         = True  | The metal lid has been completely removed from the top edge 
+     - Oatmeal Raisin Cookies box     | damaged        = False | The cardboard box is visually intact, square, and shows no s
+  [0000_rgb copy 6.jpg]
+     - milk carton                    | opened         = True  | The top spout/flap of the milk carton is visibly unfolded an
+     - box of cookies                 | opened         = False | The cardboard box containing cookies appears completely clos
+  [0000_rgb copy 7.jpg]
+     - the drawer                     | opened         = True  | The drawer is clearly pulled out from the shelf, exposing th
+     - the Spaghetti box              | fully inside the drawer = False | A significant portion of the spaghetti box extends past the 
+  [0000_rgb copy 8.jpg]
+     - milk carton                    | opened         = True  | The top flap of the milk carton is visibly unfolded and peel
+     - macaroni and cheese box        | opened         = False | The flaps on the top of the macaroni and cheese box are full
+  [0000_rgb copy.jpg]
+     - large Macaroni and Cheese box (top left) | opened         = False | The cardboard box is fully intact and sealed, showing no vis
+     - Mayo bottle on the right       | capped         = True  | The blue plastic cap is clearly visible and secured on top o
+  [0000_rgb.jpg]
+     - Silver can (bottom center)     | opened         = True  | The top lid of the silver can is visibly missing, revealing 
+     - Macaroni and Cheese box        | opened         = False | The cardboard box appears sealed and intact, showing no sign
+  [eight.png]
+     - Refrigerator door              | opened         = True  | The refrigerator door is visibly swung out from the main bod
+     - Banana                         | peeled         = False | The banana resting on the lowest shelf inside the refrigerat
+  [fifth.png]
+     - Oven                           | opened         = True  | The oven door is visibly hinged down and open, exposing the 
+     - Microwave                      | closed         = False | The microwave door is visibly swung open, showing the interi
+  [first.png]
+     - Orange juice carton            | Intact         = True  | The cardboard container shows no visible signs of damage, de
+     - Green striped can (Pasta Sauce) | Upright        = False | The can is lying horizontally on its side, rather than stand
+  [fourth.png]
+     - dishwasher                     | opened         = True  | The dishwasher door is clearly pulled down, exposing the rac
+     - milk carton                    | sealed         = False | The top of the milk carton appears to have been opened and m
+  [ninth.png]
+     - Upper left cabinet door        | open           = True  | The door is clearly swung outward on its hinges, exposing th
+     - Campbell Tomato Soup can       | opened         = False | The can's lid is fully intact and shows no visual indication
+  [second.png]
+     - Campbell's tomato soup can     | opened         = False | The can lid is intact and sealed, showing it has not been op
+     - white patterned mug            | empty          = True  | The interior of the mug is clearly visible and contains no c
+  [seventh.png]
+     - Upper right cabinet door       | opened         = True  | The cabinet door is visibly swung open, revealing the conten
+     - Dishwasher door                | closed         = False | The dishwasher door is lowered and open, exposing the interi
+  [sixth.png]
+     - Microwave oven door            | opened         = True  | The door of the microwave oven is visibly swung outward, gra
+     - Window blinds                  | fully open     = False | The window blinds are partially lowered, covering a signific
+  [third.png]
+     - refrigerator door              | open           = True  | The refrigerator door is clearly swung wide open, revealing 
+     - utensil drawer                 | closed         = False | The drawer below the counter is pulled out, exposing the ute
+
+--- droid ---
+  [45_frame_00.png]
+     - Large metal bowl               | empty          = True  | The bowl is visibly devoid of any significant contents, cont
+     - Red toy wagon                  | damaged        = False | The wagon appears structurally sound and intact with all whe
+  [46_frame_02.png]
+     - microwave oven door            | closed         = True  | The door panel of the microwave is flush with the appliance 
+     - large plastic bottle with orange label | full           = False | The bottle is nearly empty, containing only a small amount o
+  [47_frame_06.png]
+     - Book                           | opened         = False | The covers of the book are touching, indicating it is lying 
+     - Cylindrical container          | capped         = True  | A white cap is clearly visible secured over the top opening 
+  [51_frame_35.png]
+     - Faucet                         | on             = False | No water is visibly flowing or dripping from the faucet spou
+     - Green cloth in the sink        | wet            = True  | The cloth appears dark, saturated, and crumpled, indicating 
+  [58_frame_127.png]
+     - Door                           | open           = True  | The door is visibly ajar and not sealed against the door fra
+     - Hair Dryer                     | plugged in     = False | The hair dryer's power cord is visible, but the plug is not 
+  [62_frame_660.png]
+     - Box of fabric softener sheets  | opened         = True  | The top flap of the box is clearly lifted, allowing access t
+     - Window pane (left)             | open           = False | The window glass is fully seated within the frame, indicatin
+  [66_frame_84.png]
+     - green cloth                    | flat           = False | The cloth is bunched up and clearly not spread out flat on t
+     - wooden box                     | closed         = True  | The red lid is resting securely on top of the wooden box, in
+  [67_frame_226.png]
+     - top refrigerator door          | opened         = False | The door is visually flush against the appliance body, confi
+     - oven door (bottom right)       | closed         = True  | The oven door is visibly shut and aligned with the surroundi
+  [82_frame_313.png]
+     - Cardboard box                  | opened         = True  | The top flaps of the cardboard box are unfolded, revealing t
+     - Black pliers                   | open           = False | The jaws of the black pliers hanging on the pegboard are res
+  [93_frame_42.png]
+     - faucet                         | running        = False | No water is visibly flowing from the faucet spout into the s
+     - apple                          | intact         = True  | The apple appears whole and shows no visible signs of damage
+  [94_frame_160.png]
+     - refrigerator door              | opened         = True  | The refrigerator door is visibly swung out and away from the
+     - refrigerator interior          | full           = False | The shelves and compartments inside the refrigerator are mos
+
+--- egothink ---
+  [002 2.jpg]
+     - Turquoise mug                  | full           = False | The interior of the mug is clearly visible, showing that it 
+     - Jenga tower                    | intact         = True  | The blocks are stacked vertically and the tower is currently
+  [002.jpg]
+     - Smartphone screen              | on             = True  | The screen of the smartphone is illuminated and displaying a
+     - Jacket zipper                  | fully closed   = False | The zipper on the jacket is visibly open near the top/neck a
+  [003.jpg]
+     - Faucet                         | Running        = True  | Water is visibly flowing from the faucet spout into the sink
+     - Large clear jar (next to the window) | Empty          = False | The jar contains a visible level of water, meaning it is not
+  [005.jpg]
+     - large plastic water bottle     | sealed         = True  | The plastic cap is clearly screwed onto the neck of the bott
+     - smartphone                     | off            = False | The screen of the smartphone is brightly lit and displaying 
+  [008.jpg]
+     - Faucet                         | running        = False | No stream of water is currently flowing from the faucet spou
+     - Red-capped bottle              | capped         = True  | The red cap is clearly visible and secured on the top of the
+  [009 2.jpg]
+     - large hand sanitizer bottle    | unlocked       = True  | The white pump nozzle on the bottle is visibly raised, indic
+     - black payment terminal         | plugged in     = False | There is no visible power or data cable connected to the pay
+  [009.jpg]
+     - Red garment                    | flat           = False | The hands are actively holding and manipulating the garment 
+     - Bed sheet                      | wrinkled       = True  | The patterned white sheet covering the surface has numerous 
+  [010 2.jpg]
+     - Digital scale                  | on             = False | The digital display of the scale is dark, indicating that th
+     - Black water dispenser/boiler   | plugged in     = True  | A power cord is visibly connected from the back of the unit 
+  [012.jpg]
+     - Gas burner                     | lit            = False | There is no visible flame or indication that the gas burner 
+     - Cell phone                     | plugged in     = False | No charging cable is visibly connected to the cell phone lyi
+  [014.jpg]
+     - Faucet                         | running        = False | The faucet handle is in the closed position, and no stream o
+     - Greens in the white drying rack | dry            = False | The leaves appear visibly damp or wet, consistent with being
+  [015.jpg]
+     - Scissors (near the sink)       | Closed         = True  | The blades of the scissors resting near the sink are visibly
+     - Frying pan                     | Empty          = True  | The cooking surface of the frying pan on the burner is visib
+  [019.jpg]
+     - Faucet                         | Running        = False | No water is visibly flowing from the faucet spout into the s
+     - Cutting board                  | Clean          = False | Pieces of chopped vegetable are resting on the cutting board
+  [020.jpg]
+     - device screen in hand          | on             = True  | The screen of the device being held is clearly illuminated a
+     - TV screen                      | on             = False | The large TV screen is dark and shows no signs of being illu
+
+--- robo2vlm ---
+  [159-fractal20220817_data_place_blue_plastic_bottle_upright_3473_q3.png]
+     - the green soda can             | opened         = True  | The pull tab is visible and the drinking opening of the can 
+     - the clear plastic bottle       | upright        = False | The bottle is lying horizontally on its side rather than sta
+  [19.png]
+     - laptop                         | open           = False | The laptop lid is folded down onto the keyboard section, ind
+     - pen                            | contained      = True  | The pen is visibly placed inside the mug serving as a contai
+  [234-droid_pick_up_the_objects_from_the_cover_box_and_put_them_on_the_counter_5144_q8.png]
+     - Snack bag (right)              | sealed         = True  | The orange and yellow plastic packaging of the snack bag is 
+     - Dark bottle                    | opened         = False | The cap is visibly secured and screwed onto the top of the b
+  [235-droid_pick_up_the_objects_from_the_table_and_put_them_in_the_plastic_bag_8822_q1.png]
+     - white plastic bag              | open           = True  | The bag is visibly crumpled and its opening is exposed, show
+     - brown stuffed animal           | standing upright = False | The stuffed animal is lying flat on the white table surface.
+  [236-droid_pick_up_the_objects_from_the_table_and_put_them_on_the_plastic_5775_q17.png]
+     - Purple Play-Doh container      | capped         = False | The purple lid is visibly removed and sitting next to the co
+     - Spice jar                      | capped         = True  | The orange lid is visibly screwed onto the top of the jar.
+  [32.png]
+     - Bed                            | Made           = False | The bed sheets and covers are rumpled and not neatly arrange
+     - White pillow                   | Clean          = True  | The large white pillow resting on the bed appears visibly cl
+  [4.png]
+     - Cardboard package              | sealed         = True  | The cardboard package is secured with tape around all visibl
+     - Textbook                       | open           = False | The textbook is lying flat on the desk with its front cover 
+  [40.png]
+     - Grey pot                       | covered        = True  | The grey pot on the counter has its matching lid placed comp
+     - Toy microwave door             | open           = False | The door of the toy microwave unit is visually shut.
+  [41.png]
+     - cooking pot                    | covered        = True  | A black lid is visibly placed on top of the gray cooking pot
+     - faucet                         | running        = False | No water is visible flowing from the spout of the faucet.
+
+--- robovqa ---
+  [10001159773342828176.png]
+     - storage drawer under the counter | open           = True  | The storage space beneath the main counter surface is visibl
+     - green utensil held by the hand | clean          = False | There appears to be dark residue or food material visible on
+  [10001746729769259321.png]
+     - The middle drawer of the wooden toy box | opened         = True  | The drawer is visibly pulled out and extended from the main 
+     - The triangular wooden block    | inserted into the toy box = False | The triangular block is resting on the table surface next to
+  [1000197918344638078.png]
+     - Drawer                         | opened         = True  | The drawer is pulled out from the cabinet, exposing its whit
+     - Pink cup                       | upright        = False | The pink cup is lying horizontally on its side on the table 
+  [10002354224416175984.png]
+     - drawer                         | opened         = True  | The storage drawer is pulled out from the desk unit, exposin
+     - blue marker                    | capped         = True  | The blue marker lying in the top compartment of the drawer h
+  [10003476239865748012.png]
+     - Spiral notebook                | Closed         = True  | The front and back covers of the notebook are pressed togeth
+     - Pen holder                     | Empty          = False | The pen holder contains several visible pens and pencils, me
+  [12799806041675014235.png]
+     - Cardboard box                  | Open           = True  | The top flaps of the box are unfolded, clearly exposing the 
+     - Black cable                    | Plugged in     = False | The black cable is coiled on the desk, and its visible ends 
+  [13185411814790354058.png]
+     - Tablet screen                  | on             = True  | The screen of the tablet device is illuminated and displayin
+     - Desk organizer                 | empty          = False | At least two blue pens are clearly visible standing inside t
+  [13883200476867741853.png]
+     - blue marker                    | capped         = True  | The light blue plastic cap is securely attached to the tip o
+     - black solid pen holder         | empty          = False | The pen holder contains several pens visible inside its volu
+  [13958681530118257604.png]
+     - Office chair                   | occupied       = False | The seat of the chair is empty of a person, although it hold
+     - Apple                          | cut            = False | The apples visible in the tray are whole and have not been s
+  [14485517414752823386.png]
+     - cardboard shipping box on the floor | opened         = True  | The top flaps of the cardboard box are separated and not sea
+     - orange coiled cord on the table | uncoiled       = False | The orange cord is visibly wound into a tight, neat coil, me
+  [15773733330757311773.png]
+     - Bag of chips                   | sealed         = True  | The chip bag is visually intact and appears to be fully seal
+     - Expo marker                    | uncapped       = False | Every visible Expo marker has its orange cap securely attach
